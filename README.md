@@ -21,7 +21,7 @@ Module 1
 
 Module 2 
 
-####### 
+#######     
 
 
 Start Date : 27.12.2025
@@ -31,5 +31,7 @@ End Date : 28.12.2025
  What is list,dictionary which is the collection of data in python.
  What is boolean sign and symbol.
  what is for,if,else which is important aspects of python.
+
+ 
 
 ########
