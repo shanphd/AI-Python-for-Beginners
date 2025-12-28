@@ -28,9 +28,11 @@ Start Date : 27.12.2025
 End Date : 28.12.2025
 
  Lesson Learnt :
- What is list,dictionary which is the collection of data in python.
- What is boolean sign and symbol.
- what is for,if,else which is important aspects of python.
+ What is list,dictionary which is the collection of data in python. 
+ 
+ What is boolean sign and symbol.  
+ 
+ what is for,if,else which is important aspects of python.  
 
  
 
