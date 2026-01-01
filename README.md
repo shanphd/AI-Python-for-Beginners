@@ -49,7 +49,7 @@ Start Date : 1.1.2026
 
 Lesson Learnt : 
 
-How to read file from notebook 
+How to read file from notebook in Python
 
 ###########          
 
