@@ -38,4 +38,19 @@ End Date : 28.12.2025
 
  
 
-########
+######## 
+
+Module 3 
+
+##########    
+
+Start Date : 1.1.2026 
+
+
+Lesson Learnt : 
+
+How to read file from notebook 
+
+###########          
+
+
