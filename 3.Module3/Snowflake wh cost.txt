@@ -1,0 +1,27 @@
+Snowflake Warehouse Costs (Example: $3/credit/hour)
+
+Warehouse Size,Credits/Hour,Cost/Hour ($)
+X-Small,1,3.0
+Small,2,6.0
+Medium,4,12.0
+Large,8,24.0
+X-Large,16,48.0
+2X-Large,32,96.0
+3X-Large,64,192.0
+4X-Large,128,384.0
+5X-Large,256,768.0
+6X-Large,512,1536.0
+
+
+Snowflake DTC Sample: 5 x 3X-Large Warehouses
+
+Warehouse Count: 5
+Size: 3X-Large (each)
+Credits per Hour per WH: 64
+Cost per Credit: $3.00
+Total Credits/Hour (all 5): 320
+Total Cost/Hour ($): 960.00
+
+Monthly Estimate (730 hours): $700,800.00
+
+Note: Actual DTC adds egress fees (~$20-150/TB transferred).
